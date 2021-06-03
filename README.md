@@ -6,7 +6,7 @@ While learning, I am gonna start working on many projects. Stay tuned. 👀
 
 -----------------------------------------------------
 
-I am currently a **Admin** in __Hely Development__! 😎
+I am currently a **Head Admin** in __Hely Development__! 😎
 Join the discord by: https://discord.gg/mb7uw7QnAV
 
 Currently my main project is **xCore**. This project was initially started by @LeandroSSJ, however he has started many other projects.
