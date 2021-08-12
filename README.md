@@ -6,14 +6,8 @@ While learning, I am gonna start working on many projects. Stay tuned. 👀
 
 -----------------------------------------------------
 
-I am currently a **Head Admin** in __Hely Development__! 😎
-Join the discord by: https://discord.gg/mb7uw7QnAV
-
-Currently my main project is **xCore**. This project was initially started by @LeandroSSJ, however he has started many other projects.
-
-What is **xCore**? This is a essentials core that offers many features that most servers need, or really want and end up paying Developers to add these features. Well, I did this all for free!
-
-**xCore** can be fully configured, and all **Listeners** and **Commands** can be toggled off, which is what makes this core very unique.
+I am currently a **Head Admin & Developer** in __Hely Development__! 😎
+Join the discord: https://discord.gg/mb7uw7QnAV
 
 -----------------------------------------------------
 
