@@ -1,4 +1,6 @@
-Hello! I am DevDipin. 👋
+-----------------------------------------------------
+
+Hello! I am DevDipin. 
 
 I am currently working on learning more, and more Java. 💻
 
