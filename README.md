@@ -8,7 +8,7 @@ While learning, I am gonna start working on many projects. Stay tuned. 👀
 
 -----------------------------------------------------
 
-I am currently a **Head Admin & Developer** in __Hely Development__! 😎
+I am currently a **Management & Developer** in __Hely Development__! 😎
 Join the discord: https://discord.gg/mb7uw7QnAV
 
 -----------------------------------------------------
