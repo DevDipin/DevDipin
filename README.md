@@ -8,12 +8,12 @@
 </h1>
   
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/852683595378196480" />
+  <img src="https://lanyard.cnrad.dev/api/624702585596805130" />
 </p>
 
 ### 📈Stats
 <details>
-    <summary> ⚡Detailed Stats</summary>
+    <summary>Detailed Stats</summary>
     <br/>
 
 <!--START_SECTION:waka-->
