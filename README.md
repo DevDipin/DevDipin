@@ -6,12 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!+👋;JavaScript+developer.;&center=true&size=25">
   </a>
 </h1>
-  
+
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/624702585596805130" />
 </p>
 
-### 📈Stats
+### 📈 Statistics 📈
 <details>
     <summary>More Information</summary>
     <br/>
