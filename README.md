@@ -96,4 +96,4 @@ Batchfile                1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-![Footer](./footer.png)
+![Footer](./IMG_1002.png)
