@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+chicho.;CEO+on+Hely+Development....;&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!+👋;This+is+chicho.;CEO+on+Hely+Development....;&center=true&size=25">
   </a>
 </h1>
   
@@ -96,4 +96,4 @@ Batchfile                1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-![Footer](./IMG_1002.png)
+![Footer](./IMG_4002.png)
