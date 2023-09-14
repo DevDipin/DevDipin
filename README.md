@@ -13,7 +13,7 @@
 
 ### 📈Stats
 <details>
-    <summary>Detailed Stats</summary>
+    <summary>More Information</summary>
     <br/>
 
 <!--START_SECTION:waka-->
