@@ -94,6 +94,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
  Last Updated on 14/09/2023 11:10:11 UTC
 <!--END_SECTION:waka-->
-</details>
 
 ![Footer](./IMG_4002.png)
