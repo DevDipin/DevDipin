@@ -17,13 +17,13 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 883 Bytes Used in GitHub's Storage 
+> 📦 885 Bytes Used in GitHub's Storage 
  > 
 > 🏆 22 Contributions in the Year 2023
  > 
@@ -92,7 +92,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2023 23:09:01 UTC
+ Last Updated on 16/09/2023 00:39:30 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
