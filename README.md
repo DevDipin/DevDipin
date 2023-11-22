@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -60,16 +60,19 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     56 mins             █████████████████████████   98.11 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PassPlus-master          47 mins             ████████████████████░░░░░   81.71 % 
+Unknown Project          10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +90,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2023 05:10:19 UTC
+ Last Updated on 22/11/2023 06:13:37 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
