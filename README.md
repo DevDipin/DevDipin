@@ -17,8 +17,6 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,45 +31,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-🌆 Daytime                149 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
-🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Wednesday                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 102 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Friday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Saturday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -87,7 +46,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 06:13:33 UTC
+ Last Updated on 05/12/2023 07:09:51 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
