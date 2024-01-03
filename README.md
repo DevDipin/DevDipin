@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.7 kB Used in GitHub's Storage 
+> 📦 1.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -94,7 +94,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 13:12:01 UTC
+ Last Updated on 03/01/2024 14:09:15 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
