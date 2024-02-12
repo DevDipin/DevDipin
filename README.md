@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,24 @@ Sunday                   124 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 hrs 15 mins       ████████████████████████░   95.83 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 4 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HCTeams                  2 hrs 28 mins       ██████████████░░░░░░░░░░░   55.77 % 
+SacredRIPOrganizationNEW 1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Mercury                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Oxygen-master            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +95,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 05:10:30 UTC
+ Last Updated on 12/02/2024 06:12:44 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
