@@ -25,8 +25,6 @@
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -95,7 +93,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 14:09:17 UTC
+ Last Updated on 12/02/2024 15:11:02 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
