@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,7 +95,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 23:10:11 UTC
+ Last Updated on 13/02/2024 00:42:08 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
