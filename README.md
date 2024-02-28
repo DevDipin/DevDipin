@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,24 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     9 hrs 58 mins       █████████████████████████   98.30 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JAVA                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 10 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HCTeams                  5 hrs 35 mins       ██████████████░░░░░░░░░░░   55.08 % 
+Mercury                  2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Carbon                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Sodium                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+untitled                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +95,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevDipin/DevDipin/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2024 05:10:33 UTC
+ Last Updated on 28/02/2024 06:12:28 UTC
 <!--END_SECTION:waka-->
 
 ![Footer](./IMG_4002.png)
